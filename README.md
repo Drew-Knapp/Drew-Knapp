@@ -22,8 +22,7 @@ My passions are what motivate me in life and get me out of the bed in the mornin
 
 ## 🚀 Featured Projects
 
-### [Full-Stack Developer - Ski City Resort Operations Web Application]
-(https://github.com/Drew-Knapp/project-ski-city)
+### [Full-Stack Developer - Ski City Resort Operations Web Application](https://github.com/Drew-Knapp/project-ski-city)
 A full-stack web application that improves operatioonal efficiency of a ski resort
 - 🔧 Built with: Python, Flask Framework, Bootstrap, MariaDB
 - 📊 Highlights: Streamlines guest registration, equipment rentals, return processing, and more
